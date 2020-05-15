@@ -2,8 +2,6 @@
 def hopper
 	programmer_hash =
  		{
-			programmer_hash = {name: "yukihiro_matsumoto", known_for: "Ruby", languages: "LISP", "C"}
-			puts programmer_hash
         :grace_hopper => {
           :known_for => "COBOL",
           :languages => ["COBOL", "FORTRAN"]
