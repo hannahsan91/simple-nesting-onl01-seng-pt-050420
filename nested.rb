@@ -67,9 +67,6 @@ def adding_matz
 # }
 
 
-		programmer_hash = {name: "yukihiro_matsumoto", known_for: "Ruby", languages: "LISP", "C"}
-		puts programmer_hash
-	end
 	programmer_hash =
  		{
         :grace_hopper => {
