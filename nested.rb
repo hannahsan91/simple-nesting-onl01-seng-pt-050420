@@ -82,7 +82,7 @@ end
           :languages => ["C"]
         }
      }
-puts programmer_hash
+
 
 end
 
