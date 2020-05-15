@@ -3,15 +3,15 @@ def hopper
 	programmer_hash =
  		{
         :grace_hopper => {
-          :known_for = "COBOL",
+          :known_for = "COBOL"
           :languages = ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-          :known_for = "Object Orientation",
+          :known_for = "Object Orientation"
           :languages = ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
-          :known_for = "Unix",
+          :known_for = "Unix"
           :languages = ["C"]
         }
      }
@@ -25,15 +25,15 @@ h["known_for"]
 	programmer_hash =
  		{
         :grace_hopper => {
-          :known_for = "COBOL",
+          :known_for = "COBOL"
           :languages = ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-          :known_for = "Object Orientation",
+          :known_for = "Object Orientation"
           :languages = ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
-          :known_for = "Unix",
+          :known_for = "Unix"
           :languages = ["C"]
         }
      }
@@ -43,15 +43,15 @@ def dennis_ritchies_language
 	programmer_hash =
  		{
         :grace_hopper = {
-          :known_for = "COBOL",
+          :known_for = "COBOL"
           :languages = ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-          :known_for = "Object Orientation",
+          :known_for = "Object Orientation"
           :languages = ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
-          :known_for = "Unix",
+          :known_for = "Unix"
           :languages = ["C"]
         }
      }
@@ -68,21 +68,21 @@ binding.pry
 	programmer_hash =
 		{
 			:yukihiro_matsumoto =>
-				:known_for = "Ruby",
+				:known_for = "Ruby"
 					:languages = ["LISP", "C"]
 		}
 	programmer_hash =
  		{
         :grace_hopper => {
-          :known_for = "COBOL",
+          :known_for = "COBOL"
           :languages = ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-          :known_for = "Object Orientation",
+          :known_for = "Object Orientation"
           :languages = ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
-          :known_for = "Unix",
+          :known_for = "Unix"
           :languages = ["C"]
         }
      }
@@ -94,15 +94,15 @@ def changing_alan
 	programmer_hash =
  		{
         :grace_hopper = {
-          :known_for = "COBOL",
+          :known_for = "COBOL"
           :languages = ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-          :known_for = "GUI",
+          :known_for = "GUI"
           :languages = ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
-          :known_for = "Unix",
+          :known_for = "Unix"
           :languages = ["C"]
         }
      }
@@ -116,15 +116,15 @@ def adding_to_dennis
 	programmer_hash =
  		{
         :grace_hopper => {
-          :known_for = "COBOL",
+          :known_for = "COBOL"
           :languages = ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-          :known_for = "Object Orientation",
+          :known_for = "Object Orientation"
           :languages = ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
-          :known_for = "Unix",
+          :known_for = "Unix"
           :languages = ["C"]
         }
      }
