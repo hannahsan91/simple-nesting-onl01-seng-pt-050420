@@ -3,16 +3,16 @@ def hopper
 	programmer_hash =
  		{
         :grace_hopper => {
-          :known_for => "COBOL",
-          :languages => ["COBOL", "FORTRAN"]
+          :known_for = "COBOL",
+          :languages = ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-          :known_for => "Object Orientation",
-          :languages => ["Smalltalk", "LISP"]
+          :known_for = "Object Orientation",
+          :languages = ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
-          :known_for => "Unix",
-          :languages => ["C"]
+          :known_for = "Unix",
+          :languages = ["C"]
         }
      }
 
@@ -25,16 +25,16 @@ h["known_for"]
 	programmer_hash =
  		{
         :grace_hopper => {
-          :known_for => "COBOL",
-          :languages => ["COBOL", "FORTRAN"]
+          :known_for = "COBOL",
+          :languages = ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-          :known_for => "Object Orientation",
-          :languages => ["Smalltalk", "LISP"]
+          :known_for = "Object Orientation",
+          :languages = ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
-          :known_for => "Unix",
-          :languages => ["C"]
+          :known_for = "Unix",
+          :languages = ["C"]
         }
      }
 end
@@ -42,17 +42,17 @@ end
 def dennis_ritchies_language
 	programmer_hash =
  		{
-        :grace_hopper => {
-          :known_for => "COBOL",
-          :languages => ["COBOL", "FORTRAN"]
+        :grace_hopper = {
+          :known_for = "COBOL",
+          :languages = ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-          :known_for => "Object Orientation",
-          :languages => ["Smalltalk", "LISP"]
+          :known_for = "Object Orientation",
+          :languages = ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
-          :known_for => "Unix",
-          :languages => ["C"]
+          :known_for = "Unix",
+          :languages = ["C"]
         }
      }
 end
@@ -68,22 +68,22 @@ binding.pry
 	programmer_hash =
 		{
 			:yukihiro_matsumoto =>
-				:known_for = "Ruby"
-					:languages => ["LISP", "C"]
+				:known_for = "Ruby",
+					:languages = ["LISP", "C"]
 		}
 	programmer_hash =
  		{
         :grace_hopper => {
-          :known_for => "COBOL",
-          :languages => ["COBOL", "FORTRAN"]
+          :known_for = "COBOL",
+          :languages = ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-          :known_for => "Object Orientation",
-          :languages => ["Smalltalk", "LISP"]
+          :known_for = "Object Orientation",
+          :languages = ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
-          :known_for => "Unix",
-          :languages => ["C"]
+          :known_for = "Unix",
+          :languages = ["C"]
         }
      }
 
@@ -93,17 +93,17 @@ end
 def changing_alan
 	programmer_hash =
  		{
-        :grace_hopper => {
-          :known_for => "COBOL",
-          :languages => ["COBOL", "FORTRAN"]
+        :grace_hopper = {
+          :known_for = "COBOL",
+          :languages = ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-          :known_for => "GUI",
-          :languages => ["Smalltalk", "LISP"]
+          :known_for = "GUI",
+          :languages = ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
-          :known_for => "Unix",
-          :languages => ["C"]
+          :known_for = "Unix",
+          :languages = ["C"]
         }
      }
      #change what Alan Kay is :known_for to the value of the alans_new_info variable.
@@ -116,16 +116,16 @@ def adding_to_dennis
 	programmer_hash =
  		{
         :grace_hopper => {
-          :known_for => "COBOL",
-          :languages => ["COBOL", "FORTRAN"]
+          :known_for = "COBOL",
+          :languages = ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-          :known_for => "Object Orientation",
-          :languages => ["Smalltalk", "LISP"]
+          :known_for = "Object Orientation",
+          :languages = ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
-          :known_for => "Unix",
-          :languages => ["C"]
+          :known_for = "Unix",
+          :languages = ["C"]
         }
      }
 
